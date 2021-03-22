@@ -1,4 +1,4 @@
-%% Example on page 21-22
+%% Example on page 21-22 of Model Predictive Control Theory, Computation, and Design, 2nd Edition
 A = [4/3, -2/3; 1, 0];
 B = [1; 0];
 C = [-2/3, 1];
